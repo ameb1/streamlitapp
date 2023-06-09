@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title("Participation Project")
+st.title("Stats 21 Participation Project")
 
 file_upload = st.file_uploader("Upload a file")
 
